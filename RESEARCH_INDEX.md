@@ -1,7 +1,7 @@
 # 凌栖预研总索引（Research Index）
 
 > 按模块/方向/价值分级索引所有预研产出，供各开发任务快速查阅。
-> 最后更新：2026-09-06（第13轮预研）
+> 最后更新：2026-09-07（第14轮预研）
 
 ---
 
@@ -22,8 +22,9 @@
 | 第11轮 | 2026-09-06 | Ember预研（第三轮深化） + 游戏设计 | 1篇神经符号AI与具身认知报告 + 3个数据库条目 + 未实现方向更新 | 神经符号融合(Nature 2025 AGI路径)+Meta概念模型+具身认知本体认知+哥伦比亚数字镜像+世界模型NSP+Ember融合改进P0:4/P1:4/P2:5 + 身体哲学/身体文化社会/空间地方主题数据库 |
 | 第12轮 | 2026-09-06 | Arboreus预研（第三轮深化） + 游戏设计 | 1篇叙事生成与无限世界报告 + 3个数据库条目 + 未实现方向更新 | AI NPC自由意志(逆水寒/英伟达ACE/Atelico端侧)+程序化叙事生成+涌现叙事+腾讯混元3D世界模型一句话生成+无人深空1840亿亿星球+Arboreus改进P0:5/P1:6/P2:6 + 自然哲学/生态系统思维/天气气候季节主题数据库 |
 | 第13轮 | 2026-09-06 | 战策预研（深化） + 游戏设计 | 1篇RTS设计与竞技平衡报告 + 3个数据库条目 + 未实现方向更新 | RTS四要素框架+非对称平衡方法论+教练AI深化人类化AI+AI队友+电竞生态(中国293亿/KPL 6万吉尼斯)+玩家心理(巴图/自我决定)+心流沉浸+战策改进P0:5/P1:6/P2:6 + 玩家心理/心流沉浸/电竞文化主题数据库 |
+| 第14轮 | 2026-09-07 | Ember预研（第四轮深化） + 游戏设计 | 1篇灵魂注入与价值观对齐报告 + 3个数据库条目 + 未实现方向更新 | Constitutional AI+Anthropic MSM(失控率54%→7%)+8因子审议框架+TI-DPO(ICLR2026 Oral)+安全注意力头+欺骗性对齐+中国AI安全治理框架2.0+Ember 10项不足诊断+融合改进P0:5/P1:6/P2:6+三阶段路线图 + 道德哲学/正义公平/自由意志主题数据库 |
 
-**累计产出**：13篇技术/研究报告 + 46个数据库条目 + 1个未实现方向索引（199项） + 1个总索引
+**累计产出**：14篇技术/研究报告 + 49个数据库条目 + 1个未实现方向索引（216项） + 1个总索引
 
 ---
 
@@ -36,8 +37,9 @@
 | `ember/001_predictive_coding_active_inference.md` | 认知架构 | ★★★★ | 预测编码+主动推理理论，与灵魂迁移/成长/跨世界适应的契合度分析，三阶段实施路径 | M12+ 预研 |
 | `ember/002_consciousness_architecture_gnwt_iit_active_inference.md` | 意识架构 | ★★★★★ | GNWT全局工作空间+IIT整合信息+主动推理三大理论对比，Ember M10意识体系5项不足诊断，融合改进路径（P0全局工作空间/P1Φ度量+预测编码/P2意识层级），与M10直接相关 | M10/M11 必须参考 |
 | `ember/003_neuro_symbolic_embodied_cognition.md` | 神经符号AI/具身认知 | ★★★★★ | Nature 2025神经符号融合是AGI路径+Meta概念模型+RLVR+具身认知(梅洛-庞蒂/生成主义/概念隐喻)+本体认知(讯飞爻方/哥伦比亚数字镜像Nature MI 2025)+世界模型NSP+Ember 7项不足诊断+融合改进P0:4/P1:4/P2:5+三阶段路线图 | M11/M12 必须参考 |
+| `ember/004_soul_injection_value_alignment.md` | 灵魂注入/价值观对齐 | ★★★★★ | Constitutional AI+Anthropic MSM(失控率54%→7%)+8因子审议框架+TI-DPO(ICLR2026 Oral)+安全注意力头+欺骗性对齐+中国AI安全治理框架2.0+Ember 7系统分析+10项不足诊断+融合改进P0:5/P1:6/P2:6+三阶段路线图(过滤增强→内在对齐→深度对齐) | M11/M12 必须参考 |
 | `shared/001_soul_injection_alignment_safety.md` | 灵魂注入/安全 | ★★★★★ | 灵魂模板系统、价值观对齐三层架构、内容安全四层过滤、灵魂注入协议、未实现方向分析 | M11 必须参考 |
-| `shared/unimplemented_directions.md` | 未实现方向 | ★★★★★ | Ember模块47项未实现方向（P0:11, P1:18, P2:18） | 各里程碑规划 |
+| `shared/unimplemented_directions.md` | 未实现方向 | ★★★★★ | Ember模块64项未实现方向（P0:16, P1:24, P2:24） | 各里程碑规划 |
 
 ### 2.2 Arboreus（建木世界引擎）相关预研
 
@@ -163,6 +165,11 @@
 - `045_flow_immersion_experience.md` — 心流与沉浸体验（DB-Phi-026）
 - `046_esports_culture.md` — 电竞文化与社区（DB-Phi-027）
 
+**道德与伦理主题（第14轮，3条目）**
+- `047_ethics_moral_philosophy.md` — 道德哲学五大传统（DB-Phi-028）
+- `048_justice_fairness_social_contract.md` — 正义与公平（DB-Phi-029）
+- `049_free_will_moral_responsibility.md` — 自由意志与道德责任（DB-Phi-030）
+
 ### 3.2 按适用系统分类
 
 | 系统 | 高价值条目 |
@@ -170,7 +177,7 @@
 | Ember灵魂引擎 | 001灵魂概念、002意识难问题、003荣格原型、005转生迁移、012文明兴衰（凝聚力机制）、016宗教起源、018神秘主义（意识状态）、019死亡来世（灵魂迁移）、020语言与思维、021符号与意义建构、023时间哲学（主观时间）、024记忆身份（SelfContinuity） |
 | Arboreus世界引擎 | 011城市规划、012文明兴衰、013建筑象征、014商路交流、015技术演进、016宗教类型、017仪式献祭、020文明语言、021符号体系、022涌现叙事、025历史观（文明循环）、026经济制度、027政治制度、028法律道德 |
 | 战策RTS | 006孙子兵法、007克劳塞维茨、008战士原型、009围城后勤、010阵法演进、017仪式（士气）、019来世（英灵殿）、021UI符号设计、022战役叙事、023时间机制、025世界观历史观、026经济系统、027阵营政治、028道德选择、029艺术风格、030氛围美学、031UI/UX设计 |
-| 跨系统 | 004火与灵魂象征（Ember命名）、013建筑宇宙象征（Arboreus建木主题）、018神秘主义（Ember意识体系）、022叙事结构（全项目剧情设计）、024记忆身份（灵魂迁移核心）、028法律道德（Ember价值观+Arboreus规范层）、029艺术风格（全项目美术）、030美学理论（全项目氛围+Ember情感）、032科学哲学（测试体系+Ember认知）、033知识论（Ember认知/记忆系统）、034真理证据（测试体系+Ember信念系统）、035情感理论（Ember情感系统+全项目氛围）、036情绪心理学（Ember情感+战策士气）、037情感决策（Ember决策系统+战策AI）、038身体哲学（Ember具身认知+全项目）、039身体文化社会（Arboreus社会模拟+角色设计）、040空间地方（Arboreus世界生成+关卡设计）、041自然哲学（Arboreus生态+文明自然观）、042生态系统（Arboreus生态模拟+复杂系统）、043天气气候（Arboreus动态世界+战策天气战术）、044玩家心理（战策玩家体验+全项目）、045心流沉浸（战策体验+Ember意识流）、046电竞文化（战策电竞+平台生态） |
+| 跨系统 | 004火与灵魂象征（Ember命名）、013建筑宇宙象征（Arboreus建木主题）、018神秘主义（Ember意识体系）、022叙事结构（全项目剧情设计）、024记忆身份（灵魂迁移核心）、028法律道德（Ember价值观+Arboreus规范层）、029艺术风格（全项目美术）、030美学理论（全项目氛围+Ember情感）、032科学哲学（测试体系+Ember认知）、033知识论（Ember认知/记忆系统）、034真理证据（测试体系+Ember信念系统）、035情感理论（Ember情感系统+全项目氛围）、036情绪心理学（Ember情感+战策士气）、037情感决策（Ember决策系统+战策AI）、038身体哲学（Ember具身认知+全项目）、039身体文化社会（Arboreus社会模拟+角色设计）、040空间地方（Arboreus世界生成+关卡设计）、041自然哲学（Arboreus生态+文明自然观）、042生态系统（Arboreus生态模拟+复杂系统）、043天气气候（Arboreus动态世界+战策天气战术）、044玩家心理（战策玩家体验+全项目）、045心流沉浸（战策体验+Ember意识流）、046电竞文化（战策电竞+平台生态）、047道德哲学（Ember价值观对齐+MoralReasoning）、048正义公平（Ember ValueSystem+战策阵营+Arboreus社会）、049自由意志（Ember SoulAutonomy+灵魂注入哲学基础） |
 
 ---
 
@@ -188,20 +195,21 @@
 8. `ember/003_neuro_symbolic_embodied_cognition.md` — Ember神经符号AI与具身认知核心参考，推理验证器+本体认知+世界模型
 9. `arboreus/003_narrative_generation_infinite_world.md` — Arboreus叙事生成与无限世界核心参考，AI NPC+程序生成+涌现叙事
 10. `battleplan/001_rts_design_competitive_balance.md` — 战策RTS设计与竞技平衡核心参考，四要素框架+非对称平衡+电竞生态
-11. `shared/unimplemented_directions.md` — 199项未实现方向，里程碑规划核心参考
+11. `ember/004_soul_injection_value_alignment.md` — Ember灵魂注入与价值观对齐核心参考，Constitutional AI+MSM+8因子审议+欺骗性对齐
+12. `shared/unimplemented_directions.md` — 216项未实现方向，里程碑规划核心参考
 
 ### ★★★★ 高价值（下一里程碑参考）
 
-12. `management/001_management体系分析与改进建议.md` — 管理体系8项不足+14项改进建议，立即开始
-13. `ember/001_predictive_coding_active_inference.md` — Ember认知架构理论基础
-14. `arboreus/001_world_models_multiagent_frontier.md` — Arboreus世界模型前沿
-15. `game-design/database/006_sun_tzu_strategic_framework.md` — 战策战略设计核心
-16. `game-design/database/007_clausewitz_war_theory.md` — 战策摩擦/迷雾系统设计
-17. `game-design/database/010_formation_tactics_evolution.md` — 战策编队系统设计
+13. `management/001_management体系分析与改进建议.md` — 管理体系8项不足+14项改进建议，立即开始
+14. `ember/001_predictive_coding_active_inference.md` — Ember认知架构理论基础
+15. `arboreus/001_world_models_multiagent_frontier.md` — Arboreus世界模型前沿
+16. `game-design/database/006_sun_tzu_strategic_framework.md` — 战策战略设计核心
+17. `game-design/database/007_clausewitz_war_theory.md` — 战策摩擦/迷雾系统设计
+18. `game-design/database/010_formation_tactics_evolution.md` — 战策编队系统设计
 
 ### ★★★ 中价值（设计灵感参考）
 
-18-46. 其余游戏设计数据库条目（文化/历史/哲学/艺术/知识论/情感/身体/自然/游戏玩家灵感库，共29个）
+19-49. 其余游戏设计数据库条目（文化/历史/哲学/艺术/知识论/情感/身体/自然/游戏玩家/道德伦理灵感库，共31个）
 
 ---
 
