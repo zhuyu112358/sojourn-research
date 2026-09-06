@@ -48,7 +48,8 @@
 | `arboreus/001_world_models_multiagent_frontier.md` | 世界模型 | ★★★★ | MASS权威共享状态、Gamma-World多智能体编码、Solaris/Waypoint/Emergence World等2026前沿，4项实施建议 | M11/M12 |
 | `arboreus/002_ecosystem_social_simulation_emergence.md` | 生态/社会模拟 | ★★★★★ | 生态模拟（洛特卡-沃尔泰拉/能量流动/营养级）+社会模拟（LLM驱动Generative Agents/混合架构）+涌现行为（Boids/故事生成）+Arboreus M11系统4项不足+融合改进路径（P0生态基础/P1社会基础+涌现/P2分层模拟+文明级） | M11/M12 必须参考 |
 | `arboreus/003_narrative_generation_infinite_world.md` | 叙事生成/无限世界 | ★★★★★ | AI NPC自由意志(逆水寒文心人设/英伟达ACE/Atelico端侧)+程序化叙事5层架构+涌现叙事+腾讯混元3D世界模型一句话生成+无人深空1840亿亿星球程序生成+世界即叙事4层次+Arboreus 7项不足诊断+融合改进P0:5/P1:6/P2:6+三阶段路线图 | M11/M12 必须参考 |
-| `shared/unimplemented_directions.md` | 未实现方向 | ★★★★ | Arboreus模块45项未实现方向（P0:11, P1:19, P2:15） | 各里程碑规划 |
+| `arboreus/004_action_physics_interaction_large_scale.md` | 动作/物理/交互/大规模模拟 | ★★★★★ | 腾讯Motus AI多模态动作生成+VISVISE全链路AI创作+ECS架构高密度战斗(幻面之旅/光子GDC2026)+混元3D可物理仿真+巨人Multi-Agent+昆仑atom AI NPC+具身智能物理交互+Arboreus 12系统分析+10项不足诊断(物理简单/状态机动作/交互浅/非ECS/无空间分区/动作物理分离/无动画/NPC无物理操作/无破坏/无多智能体物理协作)+融合改进P0:5/P1:6/P2:6+三阶段路线图(物理增强M11→架构交互M12→活世界M13+) | M11 必须参考 |
+| `shared/unimplemented_directions.md` | 未实现方向 | ★★★★ | Arboreus模块62项未实现方向（P0:16, P1:25, P2:21） | 各里程碑规划 |
 
 ### 2.3 Battleplan（战策）相关预研
 
@@ -169,6 +170,9 @@
 - `047_ethics_moral_philosophy.md` — 道德哲学五大传统（DB-Phi-028）
 - `048_justice_fairness_social_contract.md` — 正义与公平（DB-Phi-029）
 - `049_free_will_moral_responsibility.md` — 自由意志与道德责任（DB-Phi-030）
+- `050_technology_evolution_paradigm.md` — 技术演进与范式转移（DB-Phi-031）
+- `051_tools_machines_human_agency.md` — 工具、机器与人类能动性（DB-Phi-032）
+- `052_innovation_diffusion_adoption.md` — 创新扩散与技术采纳（DB-Phi-033）
 
 ### 3.2 按适用系统分类
 
@@ -194,6 +198,7 @@
 7. `management/002_knowledge_management_ai_collaboration.md` — 知识管理与AI协作核心参考，RAG+度量+风险管理
 8. `ember/003_neuro_symbolic_embodied_cognition.md` — Ember神经符号AI与具身认知核心参考，推理验证器+本体认知+世界模型
 9. `arboreus/003_narrative_generation_infinite_world.md` — Arboreus叙事生成与无限世界核心参考，AI NPC+程序生成+涌现叙事
+10. `arboreus/004_action_physics_interaction_large_scale.md` — Arboreus动作/物理/交互/大规模模拟核心参考，ECS+物理交互+AI动作生成
 10. `battleplan/001_rts_design_competitive_balance.md` — 战策RTS设计与竞技平衡核心参考，四要素框架+非对称平衡+电竞生态
 11. `ember/004_soul_injection_value_alignment.md` — Ember灵魂注入与价值观对齐核心参考，Constitutional AI+MSM+8因子审议+欺骗性对齐
 12. `shared/unimplemented_directions.md` — 216项未实现方向，里程碑规划核心参考
