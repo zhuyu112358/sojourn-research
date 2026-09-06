@@ -1,7 +1,7 @@
 # 凌栖预研总索引（Research Index）
 
 > 按模块/方向/价值分级索引所有预研产出，供各开发任务快速查阅。
-> 最后更新：2026-09-06（第6轮预研）
+> 最后更新：2026-09-06（第7轮预研）
 
 ---
 
@@ -15,8 +15,9 @@
 | 第4轮 | 2026-09-06 | 共享预研 + 游戏设计 | 1篇研究报告 + 未实现方向索引 + 总索引 + 4个数据库条目 | 灵魂注入/对齐/安全 + 宗教/信仰主题数据库 |
 | 第5轮 | 2026-09-06 | 管理预研 + 游戏设计 | 1篇管理体系分析报告 + 3个数据库条目 + 未实现方向更新 | 管理体系8项不足+14项改进建议 + 语言/符号/叙事主题数据库 |
 | 第6轮 | 2026-09-06 | Ember预研（深化） + 游戏设计 | 1篇意识架构深化报告 + 3个数据库条目 + 未实现方向更新 | GNWT/IIT/主动推理融合路径 + 时间/记忆/历史观主题数据库 |
+| 第7轮 | 2026-09-06 | Arboreus预研（深化） + 游戏设计 | 1篇生态社会模拟报告 + 3个数据库条目 + 未实现方向更新 | 生态/社会/涌现行为融合路径 + 经济/政治/法律制度主题数据库 |
 
-**累计产出**：6篇技术/研究报告 + 25个数据库条目 + 1个未实现方向索引（84项） + 1个总索引
+**累计产出**：7篇技术/研究报告 + 28个数据库条目 + 1个未实现方向索引（98项） + 1个总索引
 
 ---
 
@@ -36,7 +37,8 @@
 | 文件 | 方向 | 价值等级 | 核心内容 | 适用里程碑 |
 |------|------|---------|---------|-----------|
 | `arboreus/001_world_models_multiagent_frontier.md` | 世界模型 | ★★★★ | MASS权威共享状态、Gamma-World多智能体编码、Solaris/Waypoint/Emergence World等2026前沿，4项实施建议 | M11/M12 |
-| `shared/unimplemented_directions.md` | 未实现方向 | ★★★★ | Arboreus模块14项未实现方向（P0:3, P1:7, P2:4） | 各里程碑规划 |
+| `arboreus/002_ecosystem_social_simulation_emergence.md` | 生态/社会模拟 | ★★★★★ | 生态模拟（洛特卡-沃尔泰拉/能量流动/营养级）+社会模拟（LLM驱动Generative Agents/混合架构）+涌现行为（Boids/故事生成）+Arboreus M11系统4项不足+融合改进路径（P0生态基础/P1社会基础+涌现/P2分层模拟+文明级） | M11/M12 必须参考 |
+| `shared/unimplemented_directions.md` | 未实现方向 | ★★★★ | Arboreus模块28项未实现方向（P0:6, P1:13, P2:9） | 各里程碑规划 |
 
 ### 2.3 Battleplan（战策）相关预研
 
@@ -114,14 +116,19 @@
 - `024_memory_identity_continuation.md` — 记忆、身份与连续性（DB-Phi-009）
 - `025_history_progress_decline_cycle.md` — 历史观：进步、衰落与循环（DB-Phi-010）
 
+**经济与制度主题（第7轮，3条目）**
+- `026_economic_systems_history.md` — 经济制度史（DB-His-008）
+- `027_political_systems_evolution.md` — 政治制度演进（DB-His-009）
+- `028_law_justice_morality.md` — 法律、正义与道德（DB-Phi-011）
+
 ### 3.2 按适用系统分类
 
 | 系统 | 高价值条目 |
 |------|-----------|
 | Ember灵魂引擎 | 001灵魂概念、002意识难问题、003荣格原型、005转生迁移、012文明兴衰（凝聚力机制）、016宗教起源、018神秘主义（意识状态）、019死亡来世（灵魂迁移）、020语言与思维、021符号与意义建构、023时间哲学（主观时间）、024记忆身份（SelfContinuity） |
-| Arboreus世界引擎 | 011城市规划、012文明兴衰、013建筑象征、014商路交流、015技术演进、016宗教类型、017仪式献祭、020文明语言、021符号体系、022涌现叙事、025历史观（文明循环） |
-| 战策RTS | 006孙子兵法、007克劳塞维茨、008战士原型、009围城后勤、010阵法演进、017仪式（士气）、019来世（英灵殿）、021UI符号设计、022战役叙事、023时间机制、025世界观历史观 |
-| 跨系统 | 004火与灵魂象征（Ember命名）、013建筑宇宙象征（Arboreus建木主题）、018神秘主义（Ember意识体系）、022叙事结构（全项目剧情设计）、024记忆身份（灵魂迁移核心） |
+| Arboreus世界引擎 | 011城市规划、012文明兴衰、013建筑象征、014商路交流、015技术演进、016宗教类型、017仪式献祭、020文明语言、021符号体系、022涌现叙事、025历史观（文明循环）、026经济制度、027政治制度、028法律道德 |
+| 战策RTS | 006孙子兵法、007克劳塞维茨、008战士原型、009围城后勤、010阵法演进、017仪式（士气）、019来世（英灵殿）、021UI符号设计、022战役叙事、023时间机制、025世界观历史观、026经济系统、027阵营政治、028道德选择 |
+| 跨系统 | 004火与灵魂象征（Ember命名）、013建筑宇宙象征（Arboreus建木主题）、018神秘主义（Ember意识体系）、022叙事结构（全项目剧情设计）、024记忆身份（灵魂迁移核心）、028法律道德（Ember价值观+Arboreus规范层） |
 
 ---
 
@@ -132,20 +139,21 @@
 1. `testing/001_testing体系分析与改进建议.md` — 测试体系改进路线图，可立即执行
 2. `shared/001_soul_injection_alignment_safety.md` — 灵魂注入/对齐/安全，产品化前置条件
 3. `ember/002_consciousness_architecture_gnwt_iit_active_inference.md` — Ember M10意识架构核心参考，GNWT/IIT/主动推理融合
-4. `shared/unimplemented_directions.md` — 84项未实现方向，里程碑规划核心参考
+4. `arboreus/002_ecosystem_social_simulation_emergence.md` — Arboreus M11生态/社会/涌现模拟核心参考
+5. `shared/unimplemented_directions.md` — 98项未实现方向，里程碑规划核心参考
 
 ### ★★★★ 高价值（下一里程碑参考）
 
-5. `management/001_management体系分析与改进建议.md` — 管理体系8项不足+14项改进建议，立即开始
-6. `ember/001_predictive_coding_active_inference.md` — Ember认知架构理论基础
-7. `arboreus/001_world_models_multiagent_frontier.md` — Arboreus世界模型前沿
-8. `game-design/database/006_sun_tzu_strategic_framework.md` — 战策战略设计核心
-9. `game-design/database/007_clausewitz_war_theory.md` — 战策摩擦/迷雾系统设计
-10. `game-design/database/010_formation_tactics_evolution.md` — 战策编队系统设计
+6. `management/001_management体系分析与改进建议.md` — 管理体系8项不足+14项改进建议，立即开始
+7. `ember/001_predictive_coding_active_inference.md` — Ember认知架构理论基础
+8. `arboreus/001_world_models_multiagent_frontier.md` — Arboreus世界模型前沿
+9. `game-design/database/006_sun_tzu_strategic_framework.md` — 战策战略设计核心
+10. `game-design/database/007_clausewitz_war_theory.md` — 战策摩擦/迷雾系统设计
+11. `game-design/database/010_formation_tactics_evolution.md` — 战策编队系统设计
 
 ### ★★★ 中价值（设计灵感参考）
 
-11-25. 其余游戏设计数据库条目（文化/历史/哲学灵感库，共15个）
+12-28. 其余游戏设计数据库条目（文化/历史/哲学灵感库，共17个）
 
 ---
 
@@ -154,8 +162,8 @@
 | 方向 | 状态 | 已完成轮次 | 下轮建议 |
 |------|------|-----------|---------|
 | 方向1：Ember预研 | 已覆盖+深化 | 第1轮（预测编码）、第6轮（意识架构GNWT/IIT） | 可做神经符号AI/具身认知 |
-| 方向2：Arboreus预研 | 已覆盖 | 第2轮（世界模型） | 可做生态模拟/社会模拟 |
-| 方向3：游戏设计 | 持续覆盖 | 第1-6轮（25条目，6主题） | 持续积累新主题 |
+| 方向2：Arboreus预研 | 已覆盖+深化 | 第2轮（世界模型）、第7轮（生态/社会/涌现） | 可做叙事生成/无限世界 |
+| 方向3：游戏设计 | 持续覆盖 | 第1-7轮（28条目，7主题） | 持续积累新主题 |
 | 方向4：测试预研 | 已覆盖 | 第3轮 | 可做性能基准/混沌测试深化 |
 | 方向5：管理预研 | 已覆盖 | 第5轮（管理体系分析） | 可做知识管理/AI协作效率深化 |
 | 方向6：共享研究 | 已覆盖 | 第4轮（灵魂注入/安全） | 可做平台生态/商业化 |
