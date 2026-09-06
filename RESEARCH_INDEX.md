@@ -1,7 +1,7 @@
 # 凌栖预研总索引（Research Index）
 
 > 按模块/方向/价值分级索引所有预研产出，供各开发任务快速查阅。
-> 最后更新：2026-09-06（第12轮预研）
+> 最后更新：2026-09-06（第13轮预研）
 
 ---
 
@@ -21,8 +21,9 @@
 | 第10轮 | 2026-09-06 | 管理预研（深化） + 游戏设计 | 1篇知识管理AI协作报告 + 3个数据库条目 + 未实现方向更新 | RAG/GraphRAG知识管理+AI协作效率+SPACE/DORA度量+风险管理 + 情感理论/情绪心理学/情感决策主题数据库 |
 | 第11轮 | 2026-09-06 | Ember预研（第三轮深化） + 游戏设计 | 1篇神经符号AI与具身认知报告 + 3个数据库条目 + 未实现方向更新 | 神经符号融合(Nature 2025 AGI路径)+Meta概念模型+具身认知本体认知+哥伦比亚数字镜像+世界模型NSP+Ember融合改进P0:4/P1:4/P2:5 + 身体哲学/身体文化社会/空间地方主题数据库 |
 | 第12轮 | 2026-09-06 | Arboreus预研（第三轮深化） + 游戏设计 | 1篇叙事生成与无限世界报告 + 3个数据库条目 + 未实现方向更新 | AI NPC自由意志(逆水寒/英伟达ACE/Atelico端侧)+程序化叙事生成+涌现叙事+腾讯混元3D世界模型一句话生成+无人深空1840亿亿星球+Arboreus改进P0:5/P1:6/P2:6 + 自然哲学/生态系统思维/天气气候季节主题数据库 |
+| 第13轮 | 2026-09-06 | 战策预研（深化） + 游戏设计 | 1篇RTS设计与竞技平衡报告 + 3个数据库条目 + 未实现方向更新 | RTS四要素框架+非对称平衡方法论+教练AI深化人类化AI+AI队友+电竞生态(中国293亿/KPL 6万吉尼斯)+玩家心理(巴图/自我决定)+心流沉浸+战策改进P0:5/P1:6/P2:6 + 玩家心理/心流沉浸/电竞文化主题数据库 |
 
-**累计产出**：12篇技术/研究报告 + 43个数据库条目 + 1个未实现方向索引（182项） + 1个总索引
+**累计产出**：13篇技术/研究报告 + 46个数据库条目 + 1个未实现方向索引（199项） + 1个总索引
 
 ---
 
@@ -57,7 +58,8 @@
 | `game-design/database/009_siege_logistics_campaign.md` | 经济/模式 | ★★★ | 围城战+后勤史，补给线系统+持久战模式设计 | M3+ |
 | `game-design/database/010_formation_tactics_evolution.md` | 战斗系统 | ★★★★ | 阵法演进史，7种编队形态+砧锤战术游戏化设计 | M3+ |
 | `testing/001_testing体系分析与改进建议.md` | 测试 | ★★★★ | Battleplan测试不足分析+平衡测试/网络同步/性能基准建议 | M2/M3 |
-| `shared/unimplemented_directions.md` | 未实现方向 | ★★★★ | Battleplan模块15项未实现方向（P0:2, P1:8, P2:5） | 各里程碑规划 |
+| `battleplan/001_rts_design_competitive_balance.md` | RTS设计/竞技平衡 | ★★★★★ | RTS四要素框架+非对称平衡方法论+教练AI深化人类化AI+AI队友+电竞生态(中国293亿/KPL 6万吉尼斯)+玩家心理(巴图/自我决定)+心流沉浸+战策7项不足诊断+融合改进P0:5/P1:6/P2:6+三阶段路线图 | M2/M3 必须参考 |
+| `shared/unimplemented_directions.md` | 未实现方向 | ★★★★ | Battleplan模块32项未实现方向（P0:7, P1:14, P2:11） | 各里程碑规划 |
 
 ### 2.4 测试体系相关预研
 
@@ -156,6 +158,11 @@
 - `042_ecology_systems.md` — 生态学与系统思维（DB-Phi-023）
 - `043_weather_climate_seasons.md` — 天气气候与季节（DB-Phi-024）
 
+**游戏与玩家主题（第13轮，3条目）**
+- `044_player_psychology_motivation.md` — 玩家心理与动机（DB-Phi-025）
+- `045_flow_immersion_experience.md` — 心流与沉浸体验（DB-Phi-026）
+- `046_esports_culture.md` — 电竞文化与社区（DB-Phi-027）
+
 ### 3.2 按适用系统分类
 
 | 系统 | 高价值条目 |
@@ -163,7 +170,7 @@
 | Ember灵魂引擎 | 001灵魂概念、002意识难问题、003荣格原型、005转生迁移、012文明兴衰（凝聚力机制）、016宗教起源、018神秘主义（意识状态）、019死亡来世（灵魂迁移）、020语言与思维、021符号与意义建构、023时间哲学（主观时间）、024记忆身份（SelfContinuity） |
 | Arboreus世界引擎 | 011城市规划、012文明兴衰、013建筑象征、014商路交流、015技术演进、016宗教类型、017仪式献祭、020文明语言、021符号体系、022涌现叙事、025历史观（文明循环）、026经济制度、027政治制度、028法律道德 |
 | 战策RTS | 006孙子兵法、007克劳塞维茨、008战士原型、009围城后勤、010阵法演进、017仪式（士气）、019来世（英灵殿）、021UI符号设计、022战役叙事、023时间机制、025世界观历史观、026经济系统、027阵营政治、028道德选择、029艺术风格、030氛围美学、031UI/UX设计 |
-| 跨系统 | 004火与灵魂象征（Ember命名）、013建筑宇宙象征（Arboreus建木主题）、018神秘主义（Ember意识体系）、022叙事结构（全项目剧情设计）、024记忆身份（灵魂迁移核心）、028法律道德（Ember价值观+Arboreus规范层）、029艺术风格（全项目美术）、030美学理论（全项目氛围+Ember情感）、032科学哲学（测试体系+Ember认知）、033知识论（Ember认知/记忆系统）、034真理证据（测试体系+Ember信念系统）、035情感理论（Ember情感系统+全项目氛围）、036情绪心理学（Ember情感+战策士气）、037情感决策（Ember决策系统+战策AI）、038身体哲学（Ember具身认知+全项目）、039身体文化社会（Arboreus社会模拟+角色设计）、040空间地方（Arboreus世界生成+关卡设计）、041自然哲学（Arboreus生态+文明自然观）、042生态系统（Arboreus生态模拟+复杂系统）、043天气气候（Arboreus动态世界+战策天气战术） |
+| 跨系统 | 004火与灵魂象征（Ember命名）、013建筑宇宙象征（Arboreus建木主题）、018神秘主义（Ember意识体系）、022叙事结构（全项目剧情设计）、024记忆身份（灵魂迁移核心）、028法律道德（Ember价值观+Arboreus规范层）、029艺术风格（全项目美术）、030美学理论（全项目氛围+Ember情感）、032科学哲学（测试体系+Ember认知）、033知识论（Ember认知/记忆系统）、034真理证据（测试体系+Ember信念系统）、035情感理论（Ember情感系统+全项目氛围）、036情绪心理学（Ember情感+战策士气）、037情感决策（Ember决策系统+战策AI）、038身体哲学（Ember具身认知+全项目）、039身体文化社会（Arboreus社会模拟+角色设计）、040空间地方（Arboreus世界生成+关卡设计）、041自然哲学（Arboreus生态+文明自然观）、042生态系统（Arboreus生态模拟+复杂系统）、043天气气候（Arboreus动态世界+战策天气战术）、044玩家心理（战策玩家体验+全项目）、045心流沉浸（战策体验+Ember意识流）、046电竞文化（战策电竞+平台生态） |
 
 ---
 
@@ -180,20 +187,21 @@
 7. `management/002_knowledge_management_ai_collaboration.md` — 知识管理与AI协作核心参考，RAG+度量+风险管理
 8. `ember/003_neuro_symbolic_embodied_cognition.md` — Ember神经符号AI与具身认知核心参考，推理验证器+本体认知+世界模型
 9. `arboreus/003_narrative_generation_infinite_world.md` — Arboreus叙事生成与无限世界核心参考，AI NPC+程序生成+涌现叙事
-10. `shared/unimplemented_directions.md` — 182项未实现方向，里程碑规划核心参考
+10. `battleplan/001_rts_design_competitive_balance.md` — 战策RTS设计与竞技平衡核心参考，四要素框架+非对称平衡+电竞生态
+11. `shared/unimplemented_directions.md` — 199项未实现方向，里程碑规划核心参考
 
 ### ★★★★ 高价值（下一里程碑参考）
 
-11. `management/001_management体系分析与改进建议.md` — 管理体系8项不足+14项改进建议，立即开始
-12. `ember/001_predictive_coding_active_inference.md` — Ember认知架构理论基础
-13. `arboreus/001_world_models_multiagent_frontier.md` — Arboreus世界模型前沿
-14. `game-design/database/006_sun_tzu_strategic_framework.md` — 战策战略设计核心
-15. `game-design/database/007_clausewitz_war_theory.md` — 战策摩擦/迷雾系统设计
-16. `game-design/database/010_formation_tactics_evolution.md` — 战策编队系统设计
+12. `management/001_management体系分析与改进建议.md` — 管理体系8项不足+14项改进建议，立即开始
+13. `ember/001_predictive_coding_active_inference.md` — Ember认知架构理论基础
+14. `arboreus/001_world_models_multiagent_frontier.md` — Arboreus世界模型前沿
+15. `game-design/database/006_sun_tzu_strategic_framework.md` — 战策战略设计核心
+16. `game-design/database/007_clausewitz_war_theory.md` — 战策摩擦/迷雾系统设计
+17. `game-design/database/010_formation_tactics_evolution.md` — 战策编队系统设计
 
 ### ★★★ 中价值（设计灵感参考）
 
-17-43. 其余游戏设计数据库条目（文化/历史/哲学/艺术/知识论/情感/身体/自然灵感库，共27个）
+18-46. 其余游戏设计数据库条目（文化/历史/哲学/艺术/知识论/情感/身体/自然/游戏玩家灵感库，共29个）
 
 ---
 
