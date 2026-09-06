@@ -78,6 +78,7 @@
 |------|------|---------|---------|-----------|
 | `shared/001_soul_injection_alignment_safety.md` | 灵魂注入/安全 | ★★★★★ | 价值观对齐四代演进、对齐不可能三角、灵魂模板系统、内容安全架构、灵魂注入协议 | M11 必须参考 |
 | `shared/002_platform_ecosystem_monetization.md` | 平台生态/商业化 | ★★★★★ | UGC三大模式对比+创作者经济+商业化8模式+2025-2026趋势+LLM成本控制7策略+反作弊五层架构+灵魂市场创新+三阶段平台路线图+三层收费结构 | M3/M4 必须参考 |
+| `shared/003_soul_injection_platformization_safety_compliance.md` | 灵魂注入平台化/AI安全合规 | ★★★★★ | 大模型安全围栏五层架构(输入/模型/输出/调用/运营)+中国AI合规8法规(生成式AI办法/深度合成/内容标识/拟人化互动2026.7/智能体安全国标2026.7)+AI游戏云18.6亿+UGC灵魂创作平台+Ember 7系统分析+12项不足诊断(无输入层安全/无调用层安全/无运营层/正则无语义/无多模态/无UGC审核/无灵魂市场/无跨世界迁移安全/无合规体系/无可审计/无欺骗性对齐检测/无多灵魂协商)+融合改进P0:5/P1:6/P2:6+三阶段路线图(安全基础M11→平台安全M12→平台生态M13+) | M11 必须参考 |
 | `shared/unimplemented_directions.md` | 未实现方向 | ★★★★★ | 全部116项未实现方向，按模块/P0-P2分级 | 里程碑规划核心参考 |
 
 ### 2.6 管理体系相关预研
@@ -173,6 +174,9 @@
 - `050_technology_evolution_paradigm.md` — 技术演进与范式转移（DB-Phi-031）
 - `051_tools_machines_human_agency.md` — 工具、机器与人类能动性（DB-Phi-032）
 - `052_innovation_diffusion_adoption.md` — 创新扩散与技术采纳（DB-Phi-033）
+- `053_chaos_order_philosophy.md` — 混沌与秩序的哲学（DB-Phi-034）
+- `054_entropy_thermodynamics_time_arrow.md` — 熵与热力学第二定律（DB-Phi-035）
+- `055_creation_myths_cosmic_origin.md` — 创世神话与宇宙起源（DB-Phi-036）
 
 ### 3.2 按适用系统分类
 
@@ -199,6 +203,7 @@
 8. `ember/003_neuro_symbolic_embodied_cognition.md` — Ember神经符号AI与具身认知核心参考，推理验证器+本体认知+世界模型
 9. `arboreus/003_narrative_generation_infinite_world.md` — Arboreus叙事生成与无限世界核心参考，AI NPC+程序生成+涌现叙事
 10. `arboreus/004_action_physics_interaction_large_scale.md` — Arboreus动作/物理/交互/大规模模拟核心参考，ECS+物理交互+AI动作生成
+11. `shared/003_soul_injection_platformization_safety_compliance.md` — 灵魂注入平台化与AI安全合规核心参考，安全围栏+合规体系+UGC灵魂市场
 10. `battleplan/001_rts_design_competitive_balance.md` — 战策RTS设计与竞技平衡核心参考，四要素框架+非对称平衡+电竞生态
 11. `ember/004_soul_injection_value_alignment.md` — Ember灵魂注入与价值观对齐核心参考，Constitutional AI+MSM+8因子审议+欺骗性对齐
 12. `shared/unimplemented_directions.md` — 216项未实现方向，里程碑规划核心参考
