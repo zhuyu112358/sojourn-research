@@ -38,6 +38,7 @@
 | `ember/002_consciousness_architecture_gnwt_iit_active_inference.md` | 意识架构 | ★★★★★ | GNWT全局工作空间+IIT整合信息+主动推理三大理论对比，Ember M10意识体系5项不足诊断，融合改进路径（P0全局工作空间/P1Φ度量+预测编码/P2意识层级），与M10直接相关 | M10/M11 必须参考 |
 | `ember/003_neuro_symbolic_embodied_cognition.md` | 神经符号AI/具身认知 | ★★★★★ | Nature 2025神经符号融合是AGI路径+Meta概念模型+RLVR+具身认知(梅洛-庞蒂/生成主义/概念隐喻)+本体认知(讯飞爻方/哥伦比亚数字镜像Nature MI 2025)+世界模型NSP+Ember 7项不足诊断+融合改进P0:4/P1:4/P2:5+三阶段路线图 | M11/M12 必须参考 |
 | `ember/004_soul_injection_value_alignment.md` | 灵魂注入/价值观对齐 | ★★★★★ | Constitutional AI+Anthropic MSM(失控率54%→7%)+8因子审议框架+TI-DPO(ICLR2026 Oral)+安全注意力头+欺骗性对齐+中国AI安全治理框架2.0+Ember 7系统分析+10项不足诊断+融合改进P0:5/P1:6/P2:6+三阶段路线图(过滤增强→内在对齐→深度对齐) | M11/M12 必须参考 |
+| `ember/005_emotion_architecture_social_cognition.md` | 情感架构/多灵魂社交认知 | ★★★★★ | Hume AI EVI(53种情绪检测/情商AI/B轮5000万)+多模态情感识别三层架构+PAD三维情感表示+Sentipolis双速情感动态+情感-记忆耦合(发现情感意识增加规范违反tradeoff)+MetaMind元认知多Agent社会推理+情感传染群体模拟(LLM Agent间情感传播)+MACRo五角色情感推理链(Situation/Clue/Thought/Action/Emotion)+MIT/斯坦福92% AGI社交场景失语+ToMAgent显式心理理论+功能共情(模型间内部状态信号协调)+Ember三层情感架构(感知/核心/表达)+8项差距诊断+融合改进P0:5(PAD表示/双速动态/情感记忆耦合/MACRo评估链/性格调制)P1:6(ToM心理模型/功能共情/情感传染网络/三层协同/细粒度情感/非语言表达)P2:6(群体情绪涌现/跨文化适配/情感发展/创伤疗愈/多模态感知/情感创造力)+三阶段路线图 | M11/M12 必须参考 |
 | `shared/001_soul_injection_alignment_safety.md` | 灵魂注入/安全 | ★★★★★ | 灵魂模板系统、价值观对齐三层架构、内容安全四层过滤、灵魂注入协议、未实现方向分析 | M11 必须参考 |
 | `shared/unimplemented_directions.md` | 未实现方向 | ★★★★★ | Ember模块64项未实现方向（P0:16, P1:24, P2:24） | 各里程碑规划 |
 
@@ -82,7 +83,7 @@
 | `shared/002_platform_ecosystem_monetization.md` | 平台生态/商业化 | ★★★★★ | UGC三大模式对比+创作者经济+商业化8模式+2025-2026趋势+LLM成本控制7策略+反作弊五层架构+灵魂市场创新+三阶段平台路线图+三层收费结构 | M3/M4 必须参考 |
 | `shared/003_soul_injection_platformization_safety_compliance.md` | 灵魂注入平台化/AI安全合规 | ★★★★★ | 大模型安全围栏五层架构(输入/模型/输出/调用/运营)+中国AI合规8法规(生成式AI办法/深度合成/内容标识/拟人化互动2026.7/智能体安全国标2026.7)+AI游戏云18.6亿+UGC灵魂创作平台+Ember 7系统分析+12项不足诊断(无输入层安全/无调用层安全/无运营层/正则无语义/无多模态/无UGC审核/无灵魂市场/无跨世界迁移安全/无合规体系/无可审计/无欺骗性对齐检测/无多灵魂协商)+融合改进P0:5/P1:6/P2:6+三阶段路线图(安全基础M11→平台安全M12→平台生态M13+) | M11 必须参考 |
 | `shared/018_soul_data_collection_system.md` | 灵魂数据收集与分析体系 | ★★★★★ | Ember 137子系统遥测参数精确定义(感知/情绪/记忆/推理/元认知/价值观/动机/社交8类)+Arboreus 37模块指标(NPC决策/社会网络/经济/文化/世界事件/生态)+大模型性能框架(调用元数据/7场景分类/自动质量评分/HCPD幻觉检测/A-B测试/MVS性价比评分)+玩家行为5类+系统性能3类+统一事件信封JSON Schema+SQLite/Parquet冷热分层存储+隐私合规(k-匿名/差分隐私/不存对话原文/删除权)+架构设计(Ember遥测钩子/Arboreus遥测/LLM中间件/客户端埋点/服务端接收/流处理/数据湖/仪表盘)+灵魂健康度SHS五维评分+世界健康度WHS六维评分+四层分析模型+Phase0接口预留12.5天工作量+P0:7/P1:7/P2:6实施路线图 | EA前必须参考 |
-| `shared/unimplemented_directions.md` | 未实现方向 | ★★★★★ | 全部319项未实现方向，按模块/P0-P2分级 | 里程碑规划核心参考 |
+| `shared/unimplemented_directions.md` | 未实现方向 | ★★★★★ | 全部336项未实现方向，按模块/P0-P2分级 | 里程碑规划核心参考 |
 
 ### 2.6 管理体系相关预研
 
@@ -192,6 +193,9 @@
 - `064_game_music_design_adaptive_emotion.md` — 游戏音乐设计——动态配乐与情感引导（DB-Cul-029）
 - `065_sound_design_spatial_audio_immersion.md` — 音效设计与空间音频——声音的物质性与沉浸感（DB-Cul-030）
 - `066_silence_negative_space_ma.md` — 沉默与声音留白——负空间的力量（DB-Cul-031）
+- `067_mythic_heroes_crosscultural_comparison.md` — 神话英雄谱系——跨文化英雄原型比较（DB-Cul-032）
+- `068_epic_narrative_structure_iliad_three_kingdoms.md` — 史诗叙事结构——从《伊利亚特》到《三国演义》（DB-Cul-033）
+- `069_tragic_hero_fate_oedipus_hamlet.md` — 悲剧英雄与命运——从俄狄浦斯到哈姆雷特（DB-Cul-034）
 
 ### 3.2 按适用系统分类
 
@@ -225,7 +229,8 @@
 10. `battleplan/001_rts_design_competitive_balance.md` — 战策RTS设计与竞技平衡核心参考，四要素框架+非对称平衡+电竞生态
 11. `battleplan/002_rts_ai_design_competitive_depth.md` — 战策RTS AI设计与竞技深度核心参考，三层AI架构+教练灵魂化+公平难度校准+电竞系统
 11. `ember/004_soul_injection_value_alignment.md` — Ember灵魂注入与价值观对齐核心参考，Constitutional AI+MSM+8因子审议+欺骗性对齐
-12. `shared/unimplemented_directions.md` — 319项未实现方向，里程碑规划核心参考
+12. `ember/005_emotion_architecture_social_cognition.md` — Ember情感架构与多灵魂社交认知核心参考，PAD三维表示+双速动态+ToM+情感传染+功能共情
+13. `shared/unimplemented_directions.md` — 336项未实现方向，里程碑规划核心参考
 
 ### ★★★★ 高价值（下一里程碑参考）
 
