@@ -62,6 +62,7 @@
 | `game-design/database/010_formation_tactics_evolution.md` | 战斗系统 | ★★★★ | 阵法演进史，7种编队形态+砧锤战术游戏化设计 | M3+ |
 | `testing/001_testing体系分析与改进建议.md` | 测试 | ★★★★ | Battleplan测试不足分析+平衡测试/网络同步/性能基准建议 | M2/M3 |
 | `battleplan/001_rts_design_competitive_balance.md` | RTS设计/竞技平衡 | ★★★★★ | RTS四要素框架+非对称平衡方法论+教练AI深化人类化AI+AI队友+电竞生态(中国293亿/KPL 6万吉尼斯)+玩家心理(巴图/自我决定)+心流沉浸+战策7项不足诊断+融合改进P0:5/P1:6/P2:6+三阶段路线图 | M2/M3 必须参考 |
+| `battleplan/002_rts_ai_design_competitive_depth.md` | RTS AI设计/竞技深度 | ★★★★★ | OpenRA-RL(50 MCP工具/25Hz/LLM+脚本+RL三路径)+AVA VLM Agent星际2(21场景)+分层DRL+7规则对手+AlphaStar联赛训练+技能校准(tutorial=0.2/normal=0.5/hard=0.8/nightmare=1.0)+int8量化<8ms+公平AI设计哲学(不作弊靠智能)+三层AI架构(战略5-10秒/战术0.5-1秒/微操每帧)+教练AI灵魂化(5性格模板+记忆+情感)+AI队友(快捷指令+策略投票+资源共享)+战略克制矩阵+微操深度+观察者模式+AI解说+战策8项差距诊断+融合改进P0:5(三层AI/难度校准/教练灵魂化v1/战略多样性/微操v1)P1:6(AI队友/观察者/排位匹配/教练深化/性能优化/AI解说v1)P2:6(LLM战略Agent/自博弈RL/VLM多模态/锦标赛/教练市场/跨游戏AI)+三阶段路线图 | M2/M3 必须参考 |
 | `shared/unimplemented_directions.md` | 未实现方向 | ★★★★ | Battleplan模块32项未实现方向（P0:7, P1:14, P2:11） | 各里程碑规划 |
 
 ### 2.4 测试体系相关预研
@@ -81,7 +82,7 @@
 | `shared/002_platform_ecosystem_monetization.md` | 平台生态/商业化 | ★★★★★ | UGC三大模式对比+创作者经济+商业化8模式+2025-2026趋势+LLM成本控制7策略+反作弊五层架构+灵魂市场创新+三阶段平台路线图+三层收费结构 | M3/M4 必须参考 |
 | `shared/003_soul_injection_platformization_safety_compliance.md` | 灵魂注入平台化/AI安全合规 | ★★★★★ | 大模型安全围栏五层架构(输入/模型/输出/调用/运营)+中国AI合规8法规(生成式AI办法/深度合成/内容标识/拟人化互动2026.7/智能体安全国标2026.7)+AI游戏云18.6亿+UGC灵魂创作平台+Ember 7系统分析+12项不足诊断(无输入层安全/无调用层安全/无运营层/正则无语义/无多模态/无UGC审核/无灵魂市场/无跨世界迁移安全/无合规体系/无可审计/无欺骗性对齐检测/无多灵魂协商)+融合改进P0:5/P1:6/P2:6+三阶段路线图(安全基础M11→平台安全M12→平台生态M13+) | M11 必须参考 |
 | `shared/018_soul_data_collection_system.md` | 灵魂数据收集与分析体系 | ★★★★★ | Ember 137子系统遥测参数精确定义(感知/情绪/记忆/推理/元认知/价值观/动机/社交8类)+Arboreus 37模块指标(NPC决策/社会网络/经济/文化/世界事件/生态)+大模型性能框架(调用元数据/7场景分类/自动质量评分/HCPD幻觉检测/A-B测试/MVS性价比评分)+玩家行为5类+系统性能3类+统一事件信封JSON Schema+SQLite/Parquet冷热分层存储+隐私合规(k-匿名/差分隐私/不存对话原文/删除权)+架构设计(Ember遥测钩子/Arboreus遥测/LLM中间件/客户端埋点/服务端接收/流处理/数据湖/仪表盘)+灵魂健康度SHS五维评分+世界健康度WHS六维评分+四层分析模型+Phase0接口预留12.5天工作量+P0:7/P1:7/P2:6实施路线图 | EA前必须参考 |
-| `shared/unimplemented_directions.md` | 未实现方向 | ★★★★★ | 全部302项未实现方向，按模块/P0-P2分级 | 里程碑规划核心参考 |
+| `shared/unimplemented_directions.md` | 未实现方向 | ★★★★★ | 全部319项未实现方向，按模块/P0-P2分级 | 里程碑规划核心参考 |
 
 ### 2.6 管理体系相关预研
 
@@ -188,6 +189,9 @@
 - `061_death_afterlife_beliefs.md` — 死亡观与来世信仰——灵魂的终极归宿（DB-Cul-026）
 - `062_immortality_eternal_life_digital.md` — 不朽与永生——从炼丹术到数字永生（DB-Cul-027）
 - `063_mourning_memorial_memory_identity.md` — 哀悼与纪念——记忆、身份与社会纽带（DB-Cul-028）
+- `064_game_music_design_adaptive_emotion.md` — 游戏音乐设计——动态配乐与情感引导（DB-Cul-029）
+- `065_sound_design_spatial_audio_immersion.md` — 音效设计与空间音频——声音的物质性与沉浸感（DB-Cul-030）
+- `066_silence_negative_space_ma.md` — 沉默与声音留白——负空间的力量（DB-Cul-031）
 
 ### 3.2 按适用系统分类
 
@@ -219,8 +223,9 @@
 11. `shared/003_soul_injection_platformization_safety_compliance.md` — 灵魂注入平台化与AI安全合规核心参考，安全围栏+合规体系+UGC灵魂市场
 12. `shared/018_soul_data_collection_system.md` — 数据收集与分析体系核心参考，遥测参数定义+隐私方案+架构设计+SHS/WHS评分
 10. `battleplan/001_rts_design_competitive_balance.md` — 战策RTS设计与竞技平衡核心参考，四要素框架+非对称平衡+电竞生态
+11. `battleplan/002_rts_ai_design_competitive_depth.md` — 战策RTS AI设计与竞技深度核心参考，三层AI架构+教练灵魂化+公平难度校准+电竞系统
 11. `ember/004_soul_injection_value_alignment.md` — Ember灵魂注入与价值观对齐核心参考，Constitutional AI+MSM+8因子审议+欺骗性对齐
-12. `shared/unimplemented_directions.md` — 302项未实现方向，里程碑规划核心参考
+12. `shared/unimplemented_directions.md` — 319项未实现方向，里程碑规划核心参考
 
 ### ★★★★ 高价值（下一里程碑参考）
 
