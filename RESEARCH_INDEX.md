@@ -50,6 +50,7 @@
 | `arboreus/002_ecosystem_social_simulation_emergence.md` | 生态/社会模拟 | ★★★★★ | 生态模拟（洛特卡-沃尔泰拉/能量流动/营养级）+社会模拟（LLM驱动Generative Agents/混合架构）+涌现行为（Boids/故事生成）+Arboreus M11系统4项不足+融合改进路径（P0生态基础/P1社会基础+涌现/P2分层模拟+文明级） | M11/M12 必须参考 |
 | `arboreus/003_narrative_generation_infinite_world.md` | 叙事生成/无限世界 | ★★★★★ | AI NPC自由意志(逆水寒文心人设/英伟达ACE/Atelico端侧)+程序化叙事5层架构+涌现叙事+腾讯混元3D世界模型一句话生成+无人深空1840亿亿星球程序生成+世界即叙事4层次+Arboreus 7项不足诊断+融合改进P0:5/P1:6/P2:6+三阶段路线图 | M11/M12 必须参考 |
 | `arboreus/004_action_physics_interaction_large_scale.md` | 动作/物理/交互/大规模模拟 | ★★★★★ | 腾讯Motus AI多模态动作生成+VISVISE全链路AI创作+ECS架构高密度战斗(幻面之旅/光子GDC2026)+混元3D可物理仿真+巨人Multi-Agent+昆仑atom AI NPC+具身智能物理交互+Arboreus 12系统分析+10项不足诊断(物理简单/状态机动作/交互浅/非ECS/无空间分区/动作物理分离/无动画/NPC无物理操作/无破坏/无多智能体物理协作)+融合改进P0:5/P1:6/P2:6+三阶段路线图(物理增强M11→架构交互M12→活世界M13+) | M11 必须参考 |
+| `arboreus/005_multi_agent_social_dynamics_collective_behavior.md` | 多智能体社会动力学/集体行为 | ★★★★★ | Stanford 1000 AI Agent社会涌现(PNAS/角色专业化/社会规划/跨日协调)+AgentCiv 70轮从生存到繁荣(12新结构/60建筑/专业化/治理无人类指令)+社会规范自发涌现(禁烟/安静/小费跨所有运行)+Agent个体性社交涌现(幻觉和标签成为规范机制)+开放式协同进化(静态沙箱不足)+榜样驱动道德学习(plan-act-observe-reflect四阶段)+Moltbook五指标诊断(语义稳定/词汇更替/个体惯性/影响持久/集体共识动态平衡)+Science Advances多数跟随协调超越人类规模+四层社会架构(个体/互动/群体/文明)+开放式协同进化机制+时间尺度分离+六维社会健康度SHS-Social(多样性/凝聚力/流动性/共识度/生产力/韧性)+10项差距诊断+融合改进P0:5(社会感知/社会关系记忆/NPC对话/交易系统/情感传染)P1:6(角色分化/规范涌现/集体行为/合作冲突/社会网络分析/世界持久化)P2:6(集体治理/制度演化/文化演化/技术演化/历史记忆/文明兴衰)+三阶段路线图 | M12/M13 必须参考 |
 | `shared/unimplemented_directions.md` | 未实现方向 | ★★★★ | Arboreus模块62项未实现方向（P0:16, P1:25, P2:21） | 各里程碑规划 |
 
 ### 2.3 Battleplan（战策）相关预研
@@ -83,7 +84,7 @@
 | `shared/002_platform_ecosystem_monetization.md` | 平台生态/商业化 | ★★★★★ | UGC三大模式对比+创作者经济+商业化8模式+2025-2026趋势+LLM成本控制7策略+反作弊五层架构+灵魂市场创新+三阶段平台路线图+三层收费结构 | M3/M4 必须参考 |
 | `shared/003_soul_injection_platformization_safety_compliance.md` | 灵魂注入平台化/AI安全合规 | ★★★★★ | 大模型安全围栏五层架构(输入/模型/输出/调用/运营)+中国AI合规8法规(生成式AI办法/深度合成/内容标识/拟人化互动2026.7/智能体安全国标2026.7)+AI游戏云18.6亿+UGC灵魂创作平台+Ember 7系统分析+12项不足诊断(无输入层安全/无调用层安全/无运营层/正则无语义/无多模态/无UGC审核/无灵魂市场/无跨世界迁移安全/无合规体系/无可审计/无欺骗性对齐检测/无多灵魂协商)+融合改进P0:5/P1:6/P2:6+三阶段路线图(安全基础M11→平台安全M12→平台生态M13+) | M11 必须参考 |
 | `shared/018_soul_data_collection_system.md` | 灵魂数据收集与分析体系 | ★★★★★ | Ember 137子系统遥测参数精确定义(感知/情绪/记忆/推理/元认知/价值观/动机/社交8类)+Arboreus 37模块指标(NPC决策/社会网络/经济/文化/世界事件/生态)+大模型性能框架(调用元数据/7场景分类/自动质量评分/HCPD幻觉检测/A-B测试/MVS性价比评分)+玩家行为5类+系统性能3类+统一事件信封JSON Schema+SQLite/Parquet冷热分层存储+隐私合规(k-匿名/差分隐私/不存对话原文/删除权)+架构设计(Ember遥测钩子/Arboreus遥测/LLM中间件/客户端埋点/服务端接收/流处理/数据湖/仪表盘)+灵魂健康度SHS五维评分+世界健康度WHS六维评分+四层分析模型+Phase0接口预留12.5天工作量+P0:7/P1:7/P2:6实施路线图 | EA前必须参考 |
-| `shared/unimplemented_directions.md` | 未实现方向 | ★★★★★ | 全部336项未实现方向，按模块/P0-P2分级 | 里程碑规划核心参考 |
+| `shared/unimplemented_directions.md` | 未实现方向 | ★★★★★ | 全部353项未实现方向，按模块/P0-P2分级 | 里程碑规划核心参考 |
 
 ### 2.6 管理体系相关预研
 
@@ -196,6 +197,9 @@
 - `067_mythic_heroes_crosscultural_comparison.md` — 神话英雄谱系——跨文化英雄原型比较（DB-Cul-032）
 - `068_epic_narrative_structure_iliad_three_kingdoms.md` — 史诗叙事结构——从《伊利亚特》到《三国演义》（DB-Cul-033）
 - `069_tragic_hero_fate_oedipus_hamlet.md` — 悲剧英雄与命运——从俄狄浦斯到哈姆雷特（DB-Cul-034）
+- `070_architecture_typology_spatial_function.md` — 建筑类型学与空间功能——从穴居到摩天楼（DB-Cul-035）
+- `071_spatial_narrative_genius_loci_space_syntax.md` — 空间叙事与场所精神——Space Syntax与Genius Loci（DB-Cul-036）
+- `072_garden_landscape_design_nature_culture.md` — 园林与景观设计——自然的人工化与人工的自然化（DB-Cul-037）
 
 ### 3.2 按适用系统分类
 
@@ -224,13 +228,14 @@
 8. `ember/003_neuro_symbolic_embodied_cognition.md` — Ember神经符号AI与具身认知核心参考，推理验证器+本体认知+世界模型
 9. `arboreus/003_narrative_generation_infinite_world.md` — Arboreus叙事生成与无限世界核心参考，AI NPC+程序生成+涌现叙事
 10. `arboreus/004_action_physics_interaction_large_scale.md` — Arboreus动作/物理/交互/大规模模拟核心参考，ECS+物理交互+AI动作生成
+11. `arboreus/005_multi_agent_social_dynamics_collective_behavior.md` — Arboreus多智能体社会动力学核心参考，四层社会架构+规范涌现+集体行为+文明演化
 11. `shared/003_soul_injection_platformization_safety_compliance.md` — 灵魂注入平台化与AI安全合规核心参考，安全围栏+合规体系+UGC灵魂市场
 12. `shared/018_soul_data_collection_system.md` — 数据收集与分析体系核心参考，遥测参数定义+隐私方案+架构设计+SHS/WHS评分
 10. `battleplan/001_rts_design_competitive_balance.md` — 战策RTS设计与竞技平衡核心参考，四要素框架+非对称平衡+电竞生态
 11. `battleplan/002_rts_ai_design_competitive_depth.md` — 战策RTS AI设计与竞技深度核心参考，三层AI架构+教练灵魂化+公平难度校准+电竞系统
 11. `ember/004_soul_injection_value_alignment.md` — Ember灵魂注入与价值观对齐核心参考，Constitutional AI+MSM+8因子审议+欺骗性对齐
 12. `ember/005_emotion_architecture_social_cognition.md` — Ember情感架构与多灵魂社交认知核心参考，PAD三维表示+双速动态+ToM+情感传染+功能共情
-13. `shared/unimplemented_directions.md` — 336项未实现方向，里程碑规划核心参考
+14. `shared/unimplemented_directions.md` — 353项未实现方向，里程碑规划核心参考
 
 ### ★★★★ 高价值（下一里程碑参考）
 
