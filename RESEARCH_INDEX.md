@@ -74,6 +74,7 @@
 | `testing/001_testing体系分析与改进建议.md` | 测试策略 | ★★★★★ | 三仓库测试体系诊断+前沿追踪（Anthropic Agent评估/GzFuzz）+12项改进建议+测试金字塔重构+四阶段路线图 | 立即开始 |
 | `testing/002_testing_frontier_quality_assurance.md` | 测试前沿 | ★★★★★ | AI代理/灵魂系统测试（SoulBench+红队对抗+确定性测试）+混沌工程（Netflix原则+故障注入）+属性测试（fast-check）+突变测试（StrykerJS）+性能基准+精准测试+三仓库深化改进方案P0:5/P1:7/P2:6 | M11/M12 必须参考 |
 | `testing/003_ai_era_testing_paradigm_formal_verification_chaos.md` | AI时代测试新范式 | ★★★★★ | ICML2026 HCPD零源幻觉检测准确率88%+蚂蚁蚁天鉴2.0测评智能体+ISSTA2025 GzFuzz语法感知模糊测试(覆盖率提升234%-360%)+Lean/Dafny形式化验证(从打补丁到设计安全)+中国信通院混沌工程平台标准+精准测试成熟度模型+AI Infra不确定性管理+10项不足诊断(全手工/无测试质量验证/无幻觉检测/无模糊测试/无形式化验证/混沌未实施/无精准测试/无性能回归/无韧性测试/无测试数据治理)+融合改进P0:5(AI辅助测试生成/突变测试/Ember幻觉检测/战策网络混沌/性能基准回归)P1:6(语法感知模糊测试/精准测试系统/ValueGuard形式化验证/混沌工程平台化/韧性测试套件/测试数据治理)P2:6(AI测评智能体/全链路形式化验证/智能混沌/测试自动进化/多灵魂涌现测试/生产混沌)+三阶段路线图(测试质量效率M11→深度测试能力M12→智能测试M13+) | M11/M12 必须参考 |
+| `testing/004_observability_chaos_engineering_production_resilience.md` | 可观测性/混沌工程/生产环境韧性 | ★★★★★ | 测试右移(Shift-Right)从可观测性到混沌工程+SLO/SLI/错误预算(99.9%=43.8分钟/月)+多burn-rate告警(快速1h/阈值14.4+慢速6h/阈值6.0)+混沌工程从GameDays到持续验证("有断路器"≠"断路器有效")+可观测性三支柱(日志/指标/追踪)+灰度发布(5%→25%→50%→100%+自动回滚)+特性开关(快速止血+A/B测试)+平台工程可靠性反馈循环+战策核心SLI(可用性/匹配延迟/对战延迟/匹配成功率/支付成功率/崩溃率)+战策8混沌实验场景(网络延迟/丢包/分区/服务重启/DB慢查询/内存压力/LLM失败/支付失败)+10项差距诊断(无结构化日志/无SLI/无SLO/无错误预算/无混沌/无灰度/无特性开关/无生产合成测试/无告警体系/无故障演练)+融合改进P0:5(结构化日志/核心SLI/基础SLO+错误预算/基础告警/网络混沌基础)P1:6(分布式追踪/混沌平台化深化/灰度发布/特性开关/生产合成测试/多burn-rate告警)P2:6(AI辅助可观测性/持续混沌验证/故障演练GameDay/全链路可观测性/混沌实验库/可靠性评分卡)+三阶段路线图(可观测性基础EA前→韧性验证M3→智能运维M4+) | EA前必须参考 |
 | `shared/unimplemented_directions.md` | 未实现方向 | ★★★★ | 测试相关未实现方向分布在各模块中 | 各里程碑 |
 
 ### 2.5 跨方向共享预研
@@ -84,7 +85,7 @@
 | `shared/002_platform_ecosystem_monetization.md` | 平台生态/商业化 | ★★★★★ | UGC三大模式对比+创作者经济+商业化8模式+2025-2026趋势+LLM成本控制7策略+反作弊五层架构+灵魂市场创新+三阶段平台路线图+三层收费结构 | M3/M4 必须参考 |
 | `shared/003_soul_injection_platformization_safety_compliance.md` | 灵魂注入平台化/AI安全合规 | ★★★★★ | 大模型安全围栏五层架构(输入/模型/输出/调用/运营)+中国AI合规8法规(生成式AI办法/深度合成/内容标识/拟人化互动2026.7/智能体安全国标2026.7)+AI游戏云18.6亿+UGC灵魂创作平台+Ember 7系统分析+12项不足诊断(无输入层安全/无调用层安全/无运营层/正则无语义/无多模态/无UGC审核/无灵魂市场/无跨世界迁移安全/无合规体系/无可审计/无欺骗性对齐检测/无多灵魂协商)+融合改进P0:5/P1:6/P2:6+三阶段路线图(安全基础M11→平台安全M12→平台生态M13+) | M11 必须参考 |
 | `shared/018_soul_data_collection_system.md` | 灵魂数据收集与分析体系 | ★★★★★ | Ember 137子系统遥测参数精确定义(感知/情绪/记忆/推理/元认知/价值观/动机/社交8类)+Arboreus 37模块指标(NPC决策/社会网络/经济/文化/世界事件/生态)+大模型性能框架(调用元数据/7场景分类/自动质量评分/HCPD幻觉检测/A-B测试/MVS性价比评分)+玩家行为5类+系统性能3类+统一事件信封JSON Schema+SQLite/Parquet冷热分层存储+隐私合规(k-匿名/差分隐私/不存对话原文/删除权)+架构设计(Ember遥测钩子/Arboreus遥测/LLM中间件/客户端埋点/服务端接收/流处理/数据湖/仪表盘)+灵魂健康度SHS五维评分+世界健康度WHS六维评分+四层分析模型+Phase0接口预留12.5天工作量+P0:7/P1:7/P2:6实施路线图 | EA前必须参考 |
-| `shared/unimplemented_directions.md` | 未实现方向 | ★★★★★ | 全部353项未实现方向，按模块/P0-P2分级 | 里程碑规划核心参考 |
+| `shared/unimplemented_directions.md` | 未实现方向 | ★★★★★ | 全部370项未实现方向，按模块/P0-P2分级 | 里程碑规划核心参考 |
 
 ### 2.6 管理体系相关预研
 
@@ -200,6 +201,9 @@
 - `070_architecture_typology_spatial_function.md` — 建筑类型学与空间功能——从穴居到摩天楼（DB-Cul-035）
 - `071_spatial_narrative_genius_loci_space_syntax.md` — 空间叙事与场所精神——Space Syntax与Genius Loci（DB-Cul-036）
 - `072_garden_landscape_design_nature_culture.md` — 园林与景观设计——自然的人工化与人工的自然化（DB-Cul-037）
+- `073_game_currency_faucets_sinks_inflation.md` — 游戏货币系统设计——Faucets、Sinks与通胀控制（DB-Cul-038）
+- `074_player_driven_economy_auction_house.md` — 玩家驱动经济与交易系统——拍卖行、市场与经济平衡（DB-Cul-039）
+- `075_f2p_monetization_battle_pass_cosmetics_fairness.md` — 付费设计与F2P经济——内购、通行证、外观与公平性（DB-Cul-040）
 
 ### 3.2 按适用系统分类
 
@@ -223,6 +227,7 @@
 5. `shared/002_platform_ecosystem_monetization.md` — 平台生态/商业化核心参考，M3/M4产品化前置
 6. `testing/002_testing_frontier_quality_assurance.md` — 测试前沿核心参考，AI代理测试+混沌工程+属性测试+突变测试
 7. `testing/003_ai_era_testing_paradigm_formal_verification_chaos.md` — AI时代测试新范式核心参考，幻觉检测+模糊测试+形式化验证+混沌工程平台化
+8. `testing/004_observability_chaos_engineering_production_resilience.md` — 可观测性与生产环境韧性核心参考，SLO/错误预算+混沌工程+灰度发布+特性开关
 7. `management/002_knowledge_management_ai_collaboration.md` — 知识管理与AI协作核心参考，RAG+度量+风险管理
 8. `management/003_ai_native_project_management_risk.md` — AI原生项目管理与风险管理核心参考，多Agent PM+知识策展+AI风险+熔断机制
 8. `ember/003_neuro_symbolic_embodied_cognition.md` — Ember神经符号AI与具身认知核心参考，推理验证器+本体认知+世界模型
@@ -235,7 +240,7 @@
 11. `battleplan/002_rts_ai_design_competitive_depth.md` — 战策RTS AI设计与竞技深度核心参考，三层AI架构+教练灵魂化+公平难度校准+电竞系统
 11. `ember/004_soul_injection_value_alignment.md` — Ember灵魂注入与价值观对齐核心参考，Constitutional AI+MSM+8因子审议+欺骗性对齐
 12. `ember/005_emotion_architecture_social_cognition.md` — Ember情感架构与多灵魂社交认知核心参考，PAD三维表示+双速动态+ToM+情感传染+功能共情
-14. `shared/unimplemented_directions.md` — 353项未实现方向，里程碑规划核心参考
+15. `shared/unimplemented_directions.md` — 370项未实现方向，里程碑规划核心参考
 
 ### ★★★★ 高价值（下一里程碑参考）
 
