@@ -80,7 +80,8 @@
 | `shared/001_soul_injection_alignment_safety.md` | 灵魂注入/安全 | ★★★★★ | 价值观对齐四代演进、对齐不可能三角、灵魂模板系统、内容安全架构、灵魂注入协议 | M11 必须参考 |
 | `shared/002_platform_ecosystem_monetization.md` | 平台生态/商业化 | ★★★★★ | UGC三大模式对比+创作者经济+商业化8模式+2025-2026趋势+LLM成本控制7策略+反作弊五层架构+灵魂市场创新+三阶段平台路线图+三层收费结构 | M3/M4 必须参考 |
 | `shared/003_soul_injection_platformization_safety_compliance.md` | 灵魂注入平台化/AI安全合规 | ★★★★★ | 大模型安全围栏五层架构(输入/模型/输出/调用/运营)+中国AI合规8法规(生成式AI办法/深度合成/内容标识/拟人化互动2026.7/智能体安全国标2026.7)+AI游戏云18.6亿+UGC灵魂创作平台+Ember 7系统分析+12项不足诊断(无输入层安全/无调用层安全/无运营层/正则无语义/无多模态/无UGC审核/无灵魂市场/无跨世界迁移安全/无合规体系/无可审计/无欺骗性对齐检测/无多灵魂协商)+融合改进P0:5/P1:6/P2:6+三阶段路线图(安全基础M11→平台安全M12→平台生态M13+) | M11 必须参考 |
-| `shared/unimplemented_directions.md` | 未实现方向 | ★★★★★ | 全部264项未实现方向，按模块/P0-P2分级 | 里程碑规划核心参考 |
+| `shared/018_soul_data_collection_system.md` | 灵魂数据收集与分析体系 | ★★★★★ | Ember 137子系统遥测参数精确定义(感知/情绪/记忆/推理/元认知/价值观/动机/社交8类)+Arboreus 37模块指标(NPC决策/社会网络/经济/文化/世界事件/生态)+大模型性能框架(调用元数据/7场景分类/自动质量评分/HCPD幻觉检测/A-B测试/MVS性价比评分)+玩家行为5类+系统性能3类+统一事件信封JSON Schema+SQLite/Parquet冷热分层存储+隐私合规(k-匿名/差分隐私/不存对话原文/删除权)+架构设计(Ember遥测钩子/Arboreus遥测/LLM中间件/客户端埋点/服务端接收/流处理/数据湖/仪表盘)+灵魂健康度SHS五维评分+世界健康度WHS六维评分+四层分析模型+Phase0接口预留12.5天工作量+P0:7/P1:7/P2:6实施路线图 | EA前必须参考 |
+| `shared/unimplemented_directions.md` | 未实现方向 | ★★★★★ | 全部284项未实现方向，按模块/P0-P2分级 | 里程碑规划核心参考 |
 
 ### 2.6 管理体系相关预研
 
@@ -181,6 +182,8 @@
 - `056_dreams_theories_crosscultural.md` — 梦的理论与跨文化解读（DB-Phi-037）
 - `057_consciousness_unconscious_boundary.md` — 意识与无意识的边界（DB-Phi-038）
 - `058_imagination_fantasy_virtual_reality.md` — 想象、幻想与虚拟实在（DB-Phi-039）
+- `059_feedback_loops_game_pacing.md` — 反馈循环与游戏节奏（DB-Game-001）
+- `060_emergent_gameplay_systems_design.md` — 涌现玩法与系统设计（DB-Game-002）
 
 ### 3.2 按适用系统分类
 
@@ -209,9 +212,10 @@
 9. `arboreus/003_narrative_generation_infinite_world.md` — Arboreus叙事生成与无限世界核心参考，AI NPC+程序生成+涌现叙事
 10. `arboreus/004_action_physics_interaction_large_scale.md` — Arboreus动作/物理/交互/大规模模拟核心参考，ECS+物理交互+AI动作生成
 11. `shared/003_soul_injection_platformization_safety_compliance.md` — 灵魂注入平台化与AI安全合规核心参考，安全围栏+合规体系+UGC灵魂市场
+12. `shared/018_soul_data_collection_system.md` — 数据收集与分析体系核心参考，遥测参数定义+隐私方案+架构设计+SHS/WHS评分
 10. `battleplan/001_rts_design_competitive_balance.md` — 战策RTS设计与竞技平衡核心参考，四要素框架+非对称平衡+电竞生态
 11. `ember/004_soul_injection_value_alignment.md` — Ember灵魂注入与价值观对齐核心参考，Constitutional AI+MSM+8因子审议+欺骗性对齐
-12. `shared/unimplemented_directions.md` — 264项未实现方向，里程碑规划核心参考
+12. `shared/unimplemented_directions.md` — 284项未实现方向，里程碑规划核心参考
 
 ### ★★★★ 高价值（下一里程碑参考）
 
