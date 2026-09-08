@@ -85,7 +85,7 @@
 | `shared/002_platform_ecosystem_monetization.md` | 平台生态/商业化 | ★★★★★ | UGC三大模式对比+创作者经济+商业化8模式+2025-2026趋势+LLM成本控制7策略+反作弊五层架构+灵魂市场创新+三阶段平台路线图+三层收费结构 | M3/M4 必须参考 |
 | `shared/003_soul_injection_platformization_safety_compliance.md` | 灵魂注入平台化/AI安全合规 | ★★★★★ | 大模型安全围栏五层架构(输入/模型/输出/调用/运营)+中国AI合规8法规(生成式AI办法/深度合成/内容标识/拟人化互动2026.7/智能体安全国标2026.7)+AI游戏云18.6亿+UGC灵魂创作平台+Ember 7系统分析+12项不足诊断(无输入层安全/无调用层安全/无运营层/正则无语义/无多模态/无UGC审核/无灵魂市场/无跨世界迁移安全/无合规体系/无可审计/无欺骗性对齐检测/无多灵魂协商)+融合改进P0:5/P1:6/P2:6+三阶段路线图(安全基础M11→平台安全M12→平台生态M13+) | M11 必须参考 |
 | `shared/018_soul_data_collection_system.md` | 灵魂数据收集与分析体系 | ★★★★★ | Ember 137子系统遥测参数精确定义(感知/情绪/记忆/推理/元认知/价值观/动机/社交8类)+Arboreus 37模块指标(NPC决策/社会网络/经济/文化/世界事件/生态)+大模型性能框架(调用元数据/7场景分类/自动质量评分/HCPD幻觉检测/A-B测试/MVS性价比评分)+玩家行为5类+系统性能3类+统一事件信封JSON Schema+SQLite/Parquet冷热分层存储+隐私合规(k-匿名/差分隐私/不存对话原文/删除权)+架构设计(Ember遥测钩子/Arboreus遥测/LLM中间件/客户端埋点/服务端接收/流处理/数据湖/仪表盘)+灵魂健康度SHS五维评分+世界健康度WHS六维评分+四层分析模型+Phase0接口预留12.5天工作量+P0:7/P1:7/P2:6实施路线图 | EA前必须参考 |
-| `shared/unimplemented_directions.md` | 未实现方向 | ★★★★★ | 全部370项未实现方向，按模块/P0-P2分级 | 里程碑规划核心参考 |
+| `shared/unimplemented_directions.md` | 未实现方向 | ★★★★★ | 全部387项未实现方向，按模块/P0-P2分级 | 里程碑规划核心参考 |
 
 ### 2.6 管理体系相关预研
 
@@ -94,6 +94,7 @@
 | `management/001_management体系分析与改进建议.md` | 项目管理 | ★★★★ | 7任务管理体系现状+2026十大趋势对照+8项不足分析+14项改进建议(P0:4/P1:6/P2:5)+三阶段路线图 | 立即开始 |
 | `management/002_knowledge_management_ai_collaboration.md` | 知识管理/AI协作 | ★★★★★ | RAG/GraphRAG企业知识库+AI项目管理(68%效率提升)+AI-CMM评估+MAaaS多智能体协同+DORA/SPACE度量+风险管理+知识管理成熟度L2-L3自评+管理深化改进P0:5/P1:8/P2:5+三阶段路线图 | 立即开始 |
 | `management/003_ai_native_project_management_risk.md` | AI原生项目管理/风险管理 | ★★★★☆ | 多Agent PM系统(PMO-APEX 48专业Agent/Orchestrator架构/MCP)+Agentic PM工作流(Observe→Compare→Distill→Propose)+知识策展Agent(自动索引/实体识别/过期检测)+AI生产环境4类错误模式(幻觉/漂移/失控/过度自信)+RAG降低幻觉71%(847部署数据)+SITS2026六类隐性风险+应急熔断机制+持续模型验证+OpenAI Astra监控先例+凌栖10项差距诊断(无Orchestrator/人工索引/无幻觉检测/无持续验证/无Agent安全/偏数量度量/被动风险/低效率/无ADR/无成本量化)+融合改进P0:6(Orchestrator原型/索引自动更新/幻觉检测/成本统计/ADR体系/熔断)P1:6(知识策展Agent/持续模型验证/DORA-SPACE/风险预警/增量执行/行为审计)P2:6(全功能Orchestrator/预测性PM/知识图谱/自适应调度/成本优化Agent/自然语言查询)+三阶段路线图 | M11/M12 参考 |
+| `management/004_engineering_productivity_developer_experience.md` | 工程效能/开发者体验DevEx | ★★★★☆ | AI-DORA框架(精英部署频率从每天多次→每天10+，变更失败率和恢复时间阈值不变)+DX Core 4精英团队新框架(Speed/Effectiveness/Quality/Impact四维)+SPACE框架AI时代演进(Activity维度失真，建议Complexity-Adjusted Activity+Code Durability+AI Attribution)+DORA 2025报告(90%技术人员用AI，80%+认为提高生产力，但"采用≠有效使用")+DevEx三要素(反馈循环/认知负荷/流动状态，打断后需23分钟恢复)+技术债四象限(故意/无意×短期/长期)+AI PR橡皮图章问题+AI辅助编程四类影响(速度/质量/学习/协作)+凌栖8项差距诊断(无效能指标/CI未优化/AI代码质量无保障/技术债无管理/DevEx未测量/多仓库协作低/知识沉淀不足/效能与业务未对齐)+融合改进P0:5(基础DORA测量/CI效率优化/AI代码审查清单/技术债基线/DevEx调查)P1:6(DX Core 4/AI归因测量/技术债偿还计划/跨仓库CI/ADR深化/效能仪表盘)P2:6(AI辅助重构/预测性效能/流动状态保护/效能业务对齐/多Agent效能/工程文化)+三阶段路线图(效能基线立即→效能体系M3→智能效能M4+) | M3 参考 |
 | `shared/unimplemented_directions.md` | 未实现方向 | ★★★★ | 管理体系33项未实现方向（P0:9, P1:13, P2:11） | 管理体系改进 |
 
 ---
@@ -204,6 +205,9 @@
 - `073_game_currency_faucets_sinks_inflation.md` — 游戏货币系统设计——Faucets、Sinks与通胀控制（DB-Cul-038）
 - `074_player_driven_economy_auction_house.md` — 玩家驱动经济与交易系统——拍卖行、市场与经济平衡（DB-Cul-039）
 - `075_f2p_monetization_battle_pass_cosmetics_fairness.md` — 付费设计与F2P经济——内购、通行证、外观与公平性（DB-Cul-040）
+- `076_level_design_pacing_difficulty_curve.md` — 关卡设计基础——节奏、难度曲线与空间引导（DB-Cul-041）
+- `077_rts_map_design_resources_terrain_balance.md` — RTS地图设计——资源、地形与战术平衡（DB-Cul-042）
+- `078_procedural_level_generation_pcg_ai_assisted.md` — 程序化关卡生成——PCG算法、质量评估与AI辅助（DB-Cul-043）
 
 ### 3.2 按适用系统分类
 
@@ -230,6 +234,7 @@
 8. `testing/004_observability_chaos_engineering_production_resilience.md` — 可观测性与生产环境韧性核心参考，SLO/错误预算+混沌工程+灰度发布+特性开关
 7. `management/002_knowledge_management_ai_collaboration.md` — 知识管理与AI协作核心参考，RAG+度量+风险管理
 8. `management/003_ai_native_project_management_risk.md` — AI原生项目管理与风险管理核心参考，多Agent PM+知识策展+AI风险+熔断机制
+9. `management/004_engineering_productivity_developer_experience.md` — 工程效能与开发者体验核心参考，AI-DORA+DX Core 4+DevEx三要素+技术债管理
 8. `ember/003_neuro_symbolic_embodied_cognition.md` — Ember神经符号AI与具身认知核心参考，推理验证器+本体认知+世界模型
 9. `arboreus/003_narrative_generation_infinite_world.md` — Arboreus叙事生成与无限世界核心参考，AI NPC+程序生成+涌现叙事
 10. `arboreus/004_action_physics_interaction_large_scale.md` — Arboreus动作/物理/交互/大规模模拟核心参考，ECS+物理交互+AI动作生成
@@ -240,7 +245,7 @@
 11. `battleplan/002_rts_ai_design_competitive_depth.md` — 战策RTS AI设计与竞技深度核心参考，三层AI架构+教练灵魂化+公平难度校准+电竞系统
 11. `ember/004_soul_injection_value_alignment.md` — Ember灵魂注入与价值观对齐核心参考，Constitutional AI+MSM+8因子审议+欺骗性对齐
 12. `ember/005_emotion_architecture_social_cognition.md` — Ember情感架构与多灵魂社交认知核心参考，PAD三维表示+双速动态+ToM+情感传染+功能共情
-15. `shared/unimplemented_directions.md` — 370项未实现方向，里程碑规划核心参考
+16. `shared/unimplemented_directions.md` — 387项未实现方向，里程碑规划核心参考
 
 ### ★★★★ 高价值（下一里程碑参考）
 
